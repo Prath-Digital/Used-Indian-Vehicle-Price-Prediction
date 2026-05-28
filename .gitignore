@@ -1,0 +1,4 @@
+model/bike_encoder.joblib
+model/bike_price_model.joblib
+model/car_encoder.joblib
+model/car_price_model.joblib
